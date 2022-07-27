@@ -5,5 +5,9 @@ Döviz ve altın kurlarını Hürriyet'ten çekmek için yapılmış bir Python 
 Bağımlılıklar:
 
 -BeautifulSoup 4
+
+
 -Numpy
+
+
 -Time (Python'da dahil)
